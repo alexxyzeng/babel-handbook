@@ -1818,7 +1818,7 @@ member.expression.property
 
 Il est très improbable que vous appreniez par cœur les signatures de méthode du constructeur pour chaque type de nœud. Donc vous devriez prendre du temps et comprendre comment ils sont générés depuis les définitions du nœud.
 
-Vous pouvez trouver toutes les [définitions actuelles ici](https://github.com/babel/babel/tree/master/packages/babel-types/src/definitions) et vous pouvez les voir [documentées ici](https://github.com/babel/babel/blob/master/doc/ast/spec.md)
+Vous pouvez trouver toutes les [définitions actuelles ici](https://github.com/babel/babel/tree/master/packages/babel-types/src/definitions) et vous pouvez les voir [documentées ici]https://github.com/babel/babel/blob/master/packages/babel-parser/ast/spec.md)
 
 * * *
 

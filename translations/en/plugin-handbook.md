@@ -1991,7 +1991,7 @@ generated from the node definitions.
 You can find all of the actual
 [definitions here](https://github.com/babel/babel/tree/master/packages/babel-types/src/definitions)
 and you can see them
-[documented here](https://github.com/babel/babel/blob/master/doc/ast/spec.md)
+[documented here]https://github.com/babel/babel/blob/master/packages/babel-parser/ast/spec.md)
 
 ----
 

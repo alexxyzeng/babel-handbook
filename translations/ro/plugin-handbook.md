@@ -1818,7 +1818,7 @@ member.expression.property
 
 Este foarte puţin probabil că veți memora vreodată semnăturile metodei constructor pentru fiecare tip de nod. Așadar, ar trebui să vă rezervați ceva timp să înţelegeți cum sunt generate acestea din definiţiile nodului.
 
-Puteţi găsi toate [definiţiile aici](https://github.com/babel/babel/tree/master/packages/babel-types/src/definitions) şi le puteţi vedea [documentate aici](https://github.com/babel/babel/blob/master/doc/ast/spec.md)
+Puteţi găsi toate [definiţiile aici](https://github.com/babel/babel/tree/master/packages/babel-types/src/definitions) şi le puteţi vedea [documentate aici]https://github.com/babel/babel/blob/master/packages/babel-parser/ast/spec.md)
 
 * * *
 
